@@ -1,0 +1,55 @@
+@mixin subtitulos {
+    font-family: "Bebas Neue";
+    font-weight: bold;
+    margin-top: 10px;
+    text-align: center;
+    color: rgb(0, 0, 0);
+}
+
+$colors: ( primario: #fff, secundario: rgb(0, 0, 0));
+* {
+    margin: 0%;
+    padding: 0%;
+}
+
+
+/* llamado a pays */
+
+.pay-v {
+    $primario: map-get($colors, primario);
+    width: 4%;
+    height: 2%;
+    object-fit: cover;
+    margin-left: 2px;
+}
+
+.pay-m {
+    @extend .pay-v;
+    margin-left: 10px;
+}
+
+.pay-a {
+    @extend .pay-v;
+    margin-left: 10px;
+}
+
+.pay-b {
+    @extend .pay-v;
+    margin-left: 10px;
+}
+
+.pay-c {
+    @extend .pay-v;
+    margin-left: 10px;
+}
+
+.pay-t {
+    @extend .pay-v;
+    margin-left: 10px;
+}
+
+.pay-mp {
+    @extend .pay-v;
+    margin-left: 10px;
+}
+

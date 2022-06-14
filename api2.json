@@ -1,0 +1,56 @@
+[
+    {
+        "precio": 15000,
+        "id": 1,
+        "title": "FINDE DE PLAYA",
+        "thumbnailUrl": "https://picsum.photos/id/1005/600"
+    },
+    {
+        "precio": 20000,
+        "id": 2,
+        "title": "ENTRE LAS MONTAÑAS",
+        "thumbnailUrl": "https://picsum.photos/id/1018/600"
+    },
+    {
+        "precio": 5000,
+        "id": 3,
+        "title": "DAY EXTREME",
+        "thumbnailUrl": "https://picsum.photos/id/1023/600"
+    },
+    {
+        "precio": 7000,
+        "id": 4,
+        "title": "DÍA DE SPA",
+        "thumbnailUrl": "https://picsum.photos/id/1025/600"
+    },
+    {
+        "precio": 60000,
+        "id": 5,
+        "title": "SEMANA EN LA CITY",
+        "thumbnailUrl": "https://picsum.photos/id/1029/600"
+    },
+    {
+        "precio": 8000,
+        "id": 6,
+        "title": "DÍA DE TREKKING",
+        "thumbnailUrl": "https://picsum.photos/id/1035/600"
+    },
+    {
+        "precio": 10000,
+        "id": 5,
+        "title": "ENCANTO",
+        "thumbnailUrl": "https://picsum.photos/id/1044/600"
+    },
+    {
+        "precio": 10000,
+        "id": 5,
+        "title": "VITALITÉ",
+        "thumbnailUrl": "https://picsum.photos/id/1050/600"
+    },
+    {
+        "precio": 4500,
+        "id": 5,
+        "title": "DESAYUNO GOURMET",
+        "thumbnailUrl": "https://picsum.photos/id/1060/600"
+    }
+]
